@@ -1,0 +1,40 @@
+.ave{
+	border: 1px solid black;
+	height: 500px;
+	position: sticky;
+	top: 0;
+	
+}
+
+.butn-drp{
+	color: #64C882;
+	border:1px solid #64C882;
+}
+#imgs img{
+margin: 5px 5px;
+	border-radius: 5px;
+box-shadow: 1px 1px 8px gray;
+
+}
+h9{
+	font-size: 10px;
+	font-weight: 600;
+}
+.bo img{
+	border-radius: 5px;
+
+	box-shadow: 1px 1px 8px gray;
+}
+.ji img{
+
+	border-radius: 5px;
+	box-shadow: 1px 1px 8px gray;
+}
+.ju{
+	border-radius: 5px;
+	box-shadow: 1px 1px 8px gray;
+}
+.ml{
+	margin-left: 10px;
+}
+
